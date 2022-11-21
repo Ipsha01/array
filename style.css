@@ -1,0 +1,15 @@
+#sub_btm
+{
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+#sort_btm
+{
+    display:none;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+input
+{
+    margin: 10px;
+}
